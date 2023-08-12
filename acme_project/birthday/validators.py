@@ -1,8 +1,5 @@
-# birthday/validators.py
-# Импортируем класс для работы с датами.
 from datetime import date
 
-# Импортируем ошибку валидации.
 from django.core.exceptions import ValidationError
 
 
